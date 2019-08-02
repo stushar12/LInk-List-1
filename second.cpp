@@ -123,6 +123,7 @@ if(j==3)
     e=e->next;
   }
 }
+      break;
 case 3:
 {
   for(int i=0;i<n;i++)
@@ -195,5 +196,6 @@ else if(j==3)
   }
  }
  }
+      break;
  }
  }
